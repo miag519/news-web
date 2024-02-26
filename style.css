@@ -5,10 +5,10 @@ HTML {
 body {
   background-color: LightGray;
 }
-
 body {
   margin: 0;
 }
+
 #content {
 margin-left:25%;
 padding:1px 16px;
@@ -21,5 +21,4 @@ height:1000px;
   border-radius: 12px;
   padding: 5px;
 }
-
 
