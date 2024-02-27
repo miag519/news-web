@@ -27,7 +27,21 @@ align-content: right;
 float: right;
 }
 
+#header {
+  padding: 15px;
+  background-color: #A4C2A5;
+  box-shadow: 10px 10px;
+}
+
 .center {
 text-align: center;
 }
-
+.newspaper {
+  column-count: 3;
+}
+* {
+  box-sizing: border-box;
+}
+img:hover {
+  opacity: 0.5;
+}
