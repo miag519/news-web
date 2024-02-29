@@ -45,3 +45,31 @@ text-align: center;
 img:hover {
   opacity: 0.5;
 }
+.topleft {
+  position: absolute;
+  top: 365px;
+  left: 190px;
+  font-size: 18px;
+}
+.bottomleft {
+  position: absolute;
+  top: 780px;
+  left: 190px;
+  font-size: 18px;
+}
+.topright {
+  position: absolute;
+  top: 365px;
+  right: 190px;
+  font-size: 18px;
+}
+.bottomright {
+  position: absolute;
+  top: 760px;
+  right: 190px;
+  font-size: 18px;
+}
+.over{
+color: white;
+background-color: #A4C2A5;
+}
